@@ -16,4 +16,4 @@ Discord - <b>https://discord.gg/na3zHmgW<br></b>
 MOD - <b>Sinsinister</b>
 
 
-<a href="https://ibb.co/5Lx63Bh"><img src="https://i.ibb.co/QMjfVrv/Discord-Support-3.png" alt="Discord-Support-3" border="0"></a><br /><a target='_blank' href='https://whatsmyscreenresolution.com/'>my computer resolution</a><br />
+<a href="https://ibb.co/5Lx63Bh"><img src="https://i.ibb.co/QMjfVrv/Discord-Support-3.png" alt="Discord-Support-3" border="0"></a><br />
