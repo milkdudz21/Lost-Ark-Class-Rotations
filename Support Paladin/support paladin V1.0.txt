@@ -1,0 +1,5 @@
+IF FindPixel(228,185,42,635,1017,29,15);
+//Key(VK_V)
+PressKey(86);
+Delay(50);
+ReleaseKey(86);
