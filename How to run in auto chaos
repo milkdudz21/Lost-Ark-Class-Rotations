@@ -1,0 +1,13 @@
+1. First make sure the software is not running
+
+2. Go into the " config " folder
+
+3. Open the " settings " in notepad and make sure  is empty like below.
+    "ClassType": "",
+    "RotationName": ""
+https://ibb.co/kcwhP44
+
+4. Now goto the rotation you want to use in auto chaos, and rename it to 
+" attack " . Move this file into the macro folder.
+
+5, It should now work when you load up the software and start the Auto Chaos.
