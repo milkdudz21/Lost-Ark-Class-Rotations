@@ -2,6 +2,8 @@
 
 Added class rotations</b><br>
 
+- Artillerist
+- Strker
 - Control Glaivier Raid<br>
 - Pinnicle Glaivier Raid TEST<br>
 - Raid Demonic Impulse Shadowhunter<br>
