@@ -2,6 +2,7 @@
 
 Added class rotations</b><br>
 
+- Raid Destroyer - Sinsinister<br>
 - Artillerist
 - Strker
 - Control Glaivier Raid<br>
